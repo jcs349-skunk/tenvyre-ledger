@@ -1,0 +1,66 @@
+{
+ "schema": "tenvyre-audit-summary-v1",
+ "at": "2026-11-03T16:11:02.036Z",
+ "committed": {
+  "odds": 0,
+  "rates": 0,
+  "projections": 9,
+  "calls": 0,
+  "campaign": 0,
+  "total": 9
+ },
+ "roots": {
+  "batches": 5,
+  "heartbeats": 3,
+  "calls": 9,
+  "matches": true
+ },
+ "stamped": {
+  "rfc3161": 5,
+  "ots": 5,
+  "both": 5,
+  "pending": 0
+ },
+ "lock": {
+  "odds": {
+   "counts": 0,
+   "post-lock": 0,
+   "unstamped": 0,
+   "no game": 0
+  },
+  "rates": {
+   "counts": 0,
+   "post-lock": 0,
+   "unstamped": 0,
+   "no game": 0
+  },
+  "projections": {
+   "counts": 0,
+   "post-lock": 5,
+   "unstamped": 0,
+   "no game": 4
+  },
+  "calls": {
+   "counts": 0,
+   "post-lock": 0,
+   "unstamped": 0,
+   "no game": 0
+  },
+  "campaign": {
+   "counts": 0,
+   "post-lock": 0,
+   "unstamped": 0,
+   "no game": 0
+  }
+ },
+ "lockTotal": {
+  "counts": 0,
+  "post-lock": 5,
+  "unstamped": 0,
+  "no game": 4
+ },
+ "revealed": 0,
+ "unrevealable": 0,
+ "first": "2026-11-03T15:16:34.243Z",
+ "last": "2026-11-03T16:11:02.036Z"
+}
