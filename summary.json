@@ -1,6 +1,6 @@
 {
  "schema": "tenvyre-audit-summary-v1",
- "at": "2026-11-03T16:11:02.036Z",
+ "at": "2026-11-03T16:14:52.120Z",
  "committed": {
   "odds": 0,
   "rates": 0,
@@ -10,15 +10,15 @@
   "total": 9
  },
  "roots": {
-  "batches": 5,
-  "heartbeats": 3,
+  "batches": 6,
+  "heartbeats": 4,
   "calls": 9,
   "matches": true
  },
  "stamped": {
-  "rfc3161": 5,
-  "ots": 5,
-  "both": 5,
+  "rfc3161": 6,
+  "ots": 6,
+  "both": 6,
   "pending": 0
  },
  "lock": {
@@ -62,5 +62,5 @@
  "revealed": 0,
  "unrevealable": 0,
  "first": "2026-11-03T15:16:34.243Z",
- "last": "2026-11-03T16:11:02.036Z"
+ "last": "2026-11-03T16:14:52.120Z"
 }
