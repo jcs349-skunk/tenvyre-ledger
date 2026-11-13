@@ -1,0 +1,14 @@
+{
+ "schema": "tenvyre-ledger-root-v1",
+ "id": "2026-11-13T161418Z",
+ "at": "2026-11-13T16:14:18.864Z",
+ "root": "a47310ad08c58601dcbc7aa96d47ee28a6c6c614d7933e6fdb70171f7c4e4236",
+ "count": 1,
+ "rfc3161": {
+  "genTime": "2026-11-13T16:14:19Z",
+  "file": "2026-11-13T161418Z.tsr"
+ },
+ "ots": {
+  "file": "2026-11-13T161418Z.ots"
+ }
+}
