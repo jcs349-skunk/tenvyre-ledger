@@ -1,24 +1,24 @@
 {
  "schema": "tenvyre-audit-summary-v1",
- "at": "2026-11-14T15:11:12.112Z",
+ "at": "2026-11-14T16:12:58.764Z",
  "committed": {
   "odds": 0,
   "rates": 0,
-  "projections": 24,
+  "projections": 25,
   "calls": 0,
   "campaign": 0,
-  "total": 24
+  "total": 25
  },
  "roots": {
-  "batches": 193,
+  "batches": 194,
   "heartbeats": 178,
-  "calls": 24,
+  "calls": 25,
   "matches": true
  },
  "stamped": {
-  "rfc3161": 193,
-  "ots": 193,
-  "both": 193,
+  "rfc3161": 194,
+  "ots": 194,
+  "both": 194,
   "pending": 0
  },
  "lock": {
@@ -38,7 +38,7 @@
    "counts": 0,
    "post-lock": 5,
    "unstamped": 0,
-   "no game": 19
+   "no game": 20
   },
   "calls": {
    "counts": 0,
@@ -57,12 +57,12 @@
   "counts": 0,
   "post-lock": 5,
   "unstamped": 0,
-  "no game": 19
+  "no game": 20
  },
- "revealed": 14,
+ "revealed": 15,
  "unrevealable": 0,
  "first": "2026-11-03T15:16:34.243Z",
- "last": "2026-11-14T15:11:12.112Z",
+ "last": "2026-11-14T16:12:58.764Z",
  "weeks": {
   "2026-11-08": {
    "batches": 99,
@@ -82,33 +82,33 @@
     "unstamped": 0,
     "no game": 11
    },
-   "revealed": 14,
+   "revealed": 15,
    "first": "2026-11-03T15:16:34.243Z",
    "last": "2026-11-08T23:11:16.988Z",
    "digest": "027633695b5cc7ba68882a67bc2150186a51111c8de38879a7de9a0a95c32576"
   },
   "2026-11-15": {
-   "batches": 94,
+   "batches": 95,
    "heartbeats": 87,
-   "calls": 8,
+   "calls": 9,
    "byClass": {
     "odds": 0,
     "rates": 0,
-    "projections": 8,
+    "projections": 9,
     "calls": 0,
     "campaign": 0
    },
-   "stampedBoth": 94,
+   "stampedBoth": 95,
    "lock": {
     "counts": 0,
     "post-lock": 0,
     "unstamped": 0,
-    "no game": 8
+    "no game": 9
    },
    "revealed": 0,
    "first": "2026-11-09T00:36:36.356Z",
-   "last": "2026-11-14T15:11:12.112Z",
-   "digest": "6d179b520637c4a8cd5dde791d0b3d4638e13b691a239246e1d91523353fb616"
+   "last": "2026-11-14T16:12:58.764Z",
+   "digest": "6bd5451ce883441d2f3bf03c32a0b2c0d24e6e9936f24d58071b81de24038b07"
   }
  }
 }
