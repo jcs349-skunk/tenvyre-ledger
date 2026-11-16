@@ -1,0 +1,21 @@
+{
+ "schema": "tenvyre-reveal-v1",
+ "batch": "2026-11-09T161515Z",
+ "record": {
+  "class": "projections",
+  "id": "projections:2027:changes:2026-11-09T153554Z",
+  "madeAt": "2026-11-09T15:35:54Z",
+  "sha256": "76fa86c7d0d254b52ed3739aeaf114b4ecf08c03411e313ee6ba9b3c71ae563c",
+  "source": "projections/2027/versions/changes/2026-11/2026-11-09T153554Z.json",
+  "subject": {
+   "kind": "changes",
+   "season": 2027
+  }
+ },
+ "salt": "db8cb8b35310811b06f7100046758072d61a2f7559d7dc91a4fc7759729be28d",
+ "proof": {
+  "index": 0,
+  "count": 1,
+  "path": []
+ }
+}
