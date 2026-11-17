@@ -1,6 +1,6 @@
 {
  "schema": "tenvyre-audit-summary-v1",
- "at": "2026-11-17T19:11:44.620Z",
+ "at": "2026-11-17T20:13:55.947Z",
  "committed": {
   "odds": 0,
   "rates": 0,
@@ -10,15 +10,15 @@
   "total": 29
  },
  "roots": {
-  "batches": 248,
-  "heartbeats": 228,
+  "batches": 249,
+  "heartbeats": 229,
   "calls": 29,
   "matches": true
  },
  "stamped": {
-  "rfc3161": 248,
-  "ots": 248,
-  "both": 248,
+  "rfc3161": 249,
+  "ots": 249,
+  "both": 249,
   "pending": 0
  },
  "lock": {
@@ -62,7 +62,7 @@
  "revealed": 18,
  "unrevealable": 0,
  "first": "2026-11-03T15:16:34.243Z",
- "last": "2026-11-17T19:11:44.620Z",
+ "last": "2026-11-17T20:13:55.947Z",
  "weeks": {
   "2026-11-08": {
    "batches": 99,
@@ -111,8 +111,8 @@
    "digest": "5365825385034fd604e9dc5ee0d7970e16c73e8a9c236d2b0d779e13ff213dcf"
   },
   "2026-11-22": {
-   "batches": 30,
-   "heartbeats": 28,
+   "batches": 31,
+   "heartbeats": 29,
    "calls": 2,
    "byClass": {
     "odds": 0,
@@ -121,7 +121,7 @@
     "calls": 0,
     "campaign": 0
    },
-   "stampedBoth": 30,
+   "stampedBoth": 31,
    "lock": {
     "counts": 0,
     "post-lock": 0,
@@ -130,8 +130,8 @@
    },
    "revealed": 0,
    "first": "2026-11-16T00:39:53.567Z",
-   "last": "2026-11-17T19:11:44.620Z",
-   "digest": "4f341e91a46df620b7c4be9743a3be5ee045636e4aa5e89c91671e37fcb00403"
+   "last": "2026-11-17T20:13:55.947Z",
+   "digest": "95d463f7a726720e569a600253c69facf46b79fb208826328f0922e5ec45018b"
   }
  }
 }
